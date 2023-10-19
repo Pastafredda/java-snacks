@@ -17,7 +17,7 @@ public class Snack1 {
 
             if (num % 2 == 0){
                 System.out.println(num);
-            } else if (num % 2 == 1) {
+            } else {
                 System.out.println(num+1);
             }
 
